@@ -12,18 +12,18 @@ labels:
 ### Pidgin
 
 
-	Pidgin is a significant tool of unity, defiance, and an identifier of local nativity. Historically, Pidgin developed 
+Pidgin is a significant tool of unity, defiance, and an identifier of local nativity. Historically, Pidgin developed 
 as a lingua franca between Hawaiians, English speakers and immigrants. The push to advocate standard English in schools,
 resulted in using Pidgin emerging as an act of defiance to social, education and political reform. In the present day, 
 Pidgin or Hawaiian Creole English (HCE) is an identifier of local nativity. However, the implementation of standard 
 English in the educational system, coupled with resurgence of the Hawaiian language within a community of English-
 speaking elites, placed HCE speakers in an unfortunate situation as an undervalued minority. 
 	
-    Early stages of the mass immigration to Hawaii necessitated the creation of a lingua franca (common tongue), 
+Early stages of the mass immigration to Hawaii necessitated the creation of a lingua franca (common tongue), 
 incorporating broken Hawaiian, English and a few borrowed worlds of the languages of immigrants. This language is called 
 Pidgin, a language developed in a situation where speakers of different languages create a common language in order to 
 communicate. At this stage, Pidgin is only spoken as a 2nd or 3rd language by its speakers. Overtime, the language grew 
-more complex, developing grammar structures and a lexicon that drew from a population of different languages and cultures.
+more complex, developing grammar structures and a lexicon that drew from a population of different languages and cultures. 
 Interracial mingling and marriages resulted in a new generation of locally-born kids, most of whom adopted Pidgin as their 
 1st language. This inter-generational continuity of language helped pidgin transcend to the status of a creole language. 
 It’s intriguing to learn that, through necessity, the petri dish of separate distinct cultures and languages unified, 
@@ -31,7 +31,7 @@ through adoption of words and grammar from each others’ languages, to produce 
 common language. This cultural and linguistic mixing created local culture and the language they used to communicate 
 helped them identify as a native population representing Hawaii’s melting pot of cultures. 
 	
-  An article called, “Pondering Pidgin”,by Michael Tsai, gave a stark reminder of the consequences of disseminating a 
+An article called, “Pondering Pidgin”,by Michael Tsai, gave a stark reminder of the consequences of disseminating a 
 culture. Just as how Native Hawaiians showed defiance in the social, educational, and political reform of replacing a 
 local language with a foreign one, so did the Hawaiian Creole English-speaking natives. The ban on speaking Hawaiian 
 in school may have ensured the growth of HCE speakers. Consequently, HCE flourished as a new identity of local 
@@ -48,7 +48,7 @@ population. As new immigrants assimilate through the HCE language, and the need 
 tourist continues, the Hawaiian Creole English Language-speaking community will only continue to grow. This makes me 
 wonder, how can we better address the negative stigma that creates such hopelessness and powerlessness of our people?
   
-  In the hanabata days, I too was an immigrant who only new a few words in English. Broken English became a means to 
+In the hanabata days, I too was an immigrant who only new a few words in English. Broken English became a means to 
 connect with my local born cousins who speak HCE. Eventually, through my cousins and classmates, I learned it well 
 enough to speak HCE. As I grew to an adolescent, the struggle some HCE students have within school was apparent. I 
 grew aware that some of my peers through hushed words would deter us from associating from a particular group. I 
@@ -64,7 +64,7 @@ such as these made deciding which language I needed to be fluent to, easier. Alr
 more afraid of poor educational and career prospects, so I chose standard English, and connections with my HCE peers 
 grew strained. 
 	
-  That said, I would like HCE to be spoken formally, as in reading and writing in schools. Standard English is still 
+That said, I would like HCE to be spoken formally, as in reading and writing in schools. Standard English is still 
 the language of business and politics in Hawaii, but HCE should be used to teach the HCE-speakers Standard English, 
 just as you would teach a French student English in French. Either that, or treat HCE as a co-equal language of 
 business and politics within Hawaii, but even that would limit HCE speaking individuals confined in only thriving 
