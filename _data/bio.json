@@ -19,7 +19,13 @@
         "network": "github",
         "username": "tineriver",
         "url": "http://github.com/tineriver"
+      },
+      {
+        "network": "facebook",
+        "username": "tineriver",
+        "url": "https://www.facebook.com/tin.river/"
       }
+      
     ]
   },
   "interests": [
