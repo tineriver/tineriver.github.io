@@ -13,7 +13,7 @@ labels:
 summary: A check book appplication developed in ICS 212.
 ---
 
-<img class=https://github.com/tineriver/tineriver.github.io/blob/master/images/CheckBook.jpg">
+<img src=https://github.com/tineriver/tineriver.github.io/blob/master/images/CheckBook.jpg">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
