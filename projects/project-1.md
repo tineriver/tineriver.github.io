@@ -11,10 +11,7 @@ labels:
 summary: My first project created by java.
 ---
 
-<div class="ui small rounded images">
-  <img class="https://raw.githubusercontent.com/tineriver/tineriver.github.io/master/images/catchPokemon.jpg">
-  <img class="https://raw.githubusercontent.com/tineriver/tineriver.github.io/master/images/wildPokemon.jpg">
-</div>
+<img class="tineriver.github.io/images/wildPokemon.jpg">
 
 
 
