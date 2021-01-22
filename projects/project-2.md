@@ -13,6 +13,6 @@ labels:
 summary: A check book appplication developed in ICS 212.
 ---
 
-<img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/CheckBook.jpg">
+<img src="https://raw.githubusercontent.com/tineriver/tineriver.github.io/master/images/CheckBook.jpg">
 
 Check Book is an application that I made in ICS 212. The project helped me learn how to receive user input, create a check class and to print a list of data that had been procured.
