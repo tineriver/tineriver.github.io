@@ -10,7 +10,7 @@ labels:
   - JGrasp
   - C++
 
-summary: A check book appplication developedin ICS 212.
+summary: A check book appplication developed in ICS 212.
 ---
 
 <ihttps://github.com/tineriver/tineriver.github.io/blob/master/images/CheckBook.jpg">
