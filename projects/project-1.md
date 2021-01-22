@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/pokeIcon.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: To Catch a Pokemon
+permalink: projects/pokemon
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-07
 labels:
@@ -18,17 +18,6 @@ summary: My first project created by java.
 
 
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
 
 
