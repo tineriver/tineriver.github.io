@@ -29,3 +29,5 @@ hint button more and more, and mental notes to go over certain exercises in the 
 tutorial associated with Deconstruction, it’s a new thing for me. As devastating it is for me to learn that it’s just 
 as challenging to learn JavaScript as it has been learning Java, It’s comforting to know that I have been down this 
 road before and I know, eventually, I’ll get it.
+
+{% include {{ site.theme-essays }} %}
