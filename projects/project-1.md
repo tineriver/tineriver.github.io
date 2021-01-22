@@ -11,8 +11,8 @@ labels:
 summary: My first project created by java.
 ---
 
-<img src="https://raw.githubusercontent.com/tineriver/tineriver.github.io/master/images/wildPokemon.jpg">
-<img src="https://raw.githubusercontent.com/tineriver/tineriver.github.io/master/images/catchPokemon.jpg">
+<img src="https://raw.githubusercontent.com/tineriver/tineriver.github.io/master/images/wildPokemon.jpg" height = "500">
+<img src="https://raw.githubusercontent.com/tineriver/tineriver.github.io/master/images/catchPokemon.jpg" height = "500">
 
 To Catch a Pokemon is a java based project created in my first year as a ICS student. 
 Implementing GUI to create a playbale Pokedex, where catching wild Pokemons are made 
