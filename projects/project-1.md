@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/pokeIcon.jpg
 title: To Catch a Pokemon
-permalink: projects/pokemon
+permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-07
 labels:
