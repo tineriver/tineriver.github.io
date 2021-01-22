@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/CheckBookIcon.jpg
 title: Check Book
-permalink: projects/Check Book
+permalink: projects/CheckBook
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-13
 labels:
