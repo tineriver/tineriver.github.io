@@ -6,9 +6,9 @@ title: Coding Standards: ESLint
 date: 2021-02-11
 labels:
   - JavaScript
-- Coding Standard
-- ESLint
-- IntellJ IDEA
+  - Coding Standard
+  - ESLint
+  - IntellJ IDEA
 ---
 ## Coding Standards: ESLint
 
