@@ -12,7 +12,7 @@ labels:
 
   
 Communicating effectively is an artform, whether through an essay, a painting, a movie or even written in code. There’s nothing more satisfying than reading 
-a piece of code and knowing exactly what the coder was trying to convey or to do with his/her algorithm. Contrariwise, anyone who’s ever worked in coding 
+a piece of code and knowing exactly what the coder was trying to convey or to do with his/her algorithm. Contrariwise, anyone who’s ever worked with code 
 knows the feeling of frustration from not understanding a piece of bad coding. I know the feeling all too well while taking up my first computer science course, and I’m sure my fellow classmates had felt the same way about mines. This led me to feel quite apprehensive about working with other fellow humans. How are we to understand each other if we all write code differently. To my relief there is already an answer to this predicament, enter the coding standards.
 
 ### The Importance of Implementing to a Coding Standard
