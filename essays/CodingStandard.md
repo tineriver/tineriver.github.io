@@ -32,6 +32,9 @@ the small stuff, get lost in coding and just let myself type away. Once I am sur
 corrections. Lastly, when all corrections are resolved, once the code actually does what it’s meant to do, and you see that green check mark verifying the work 
 meets the coding standard… All there is left is to do is to feel satisfied. I see it as a safety net, and as an added perk, I find myself learning more about 
 the language as I use it.
+
+<img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/badCoding.jpg?raw=true">
+Above shows corrections needed to be resolved, indicated by a red zigzag underline on line 2 and 5. Hovering on the line will generate a red light bulb shown on the left, advising ways to medegate the mistake.
 	
 ### Procedure
 
