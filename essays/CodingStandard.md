@@ -24,13 +24,7 @@ coding standard tool for JavaScript users and here are my few thoughts…
 
 ### Learning Curve
 	
-Having taken a previous coding class to learn Java and C, I am quite familiar coding standards. Since, my train of thoughts seems to run faster than my fingers, 
-I tend to make many basic mistakes. Because of this, I always find myself relying on coding standard tools to get my code to work. Although, in my opinion, 
-installing the tool takes quite an amount of time, once it’s installed, I feel a lot more secure while writing any code. It gives me insurance to pay no mind in 
-the small stuff, get lost in coding and just let myself type away. Once I am sure that my algorithm is right and should work, then I worry about the minor 
-corrections. Lastly, when all corrections are resolved, once the code actually does what it’s meant to do, and you see that green check mark verifying the work 
-meets the coding standard… All there is left is to do is to feel satisfied. I see it as a safety net, and as an added perk, I find myself learning more about 
-the language as I use it.
+Having taken a previous coding class to learn Java and C, I am quite familiar with coding standards. Since, my train of thoughts seems to run faster than my fingers, I tend to make many basic mistakes. Because of this, I always find myself relying on coding standard tools to get my code to work. Although, in my opinion, installing the tool takes quite an amount of time, once it’s installed, I feel a lot more secure while writing any code. It gives me insurance to pay no mind in the small stuff, get lost in coding and just let myself type away. Once I am sure that my algorithm is right and should work, then I worry about the minor corrections. Lastly, when all corrections are resolved, once the code actually does what it’s meant to do, and you see that green check mark verifying the work meets the coding standard… All there is left is to do is to feel satisfied. I see it as a safety net, and as an added perk, I find myself learning more about the language as I use it.
 
 <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/badCoding.png?raw=true">
 Above shows corrections needed to be resolved, indicated by a red zigzag underline on line 2 and 5. Hovering on the line will generate a red light bulb shown on the left, advising ways to medegate the mistake.
