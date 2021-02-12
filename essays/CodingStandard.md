@@ -53,5 +53,6 @@ or references. This style guide, if I ever I need it, will save me hours of scou
 mistake. So, thank you very much, I truly appreciate it.
 
 ### Final Thoughts 
+
 Love it or hate it, coding standards is integral in group works, and in the Computer Science industry in general. I’d hate to be that engineer who's taken over someone elses work. Only to find that it is convoluted and inundated in bad coding practices, consequently preventing me in making any real progress. And I wouldn’t be as shameful to be that engineer to give over a work I know no one will understand except for myself. It’s one way of keeping a job I suppose but very bad teamwork.
 
