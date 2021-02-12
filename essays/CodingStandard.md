@@ -10,7 +10,6 @@ labels:
   - Coding Standards
 ---
 
-## Coding Standards: ESLint
   
 Communicating effectively is an artform, whether through an essay, a painting, a movie or even written in code. There’s nothing more satisfying than reading 
 a piece of code and knowing exactly what the coder was trying to convey or to do with his/her algorithm. Contrariwise, anything who’s ever worked in coding 
