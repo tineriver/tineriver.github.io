@@ -9,24 +9,23 @@ labels:
   - CSS
   - Semantic UI
 ---
-## Lessons From My Failures
-  
 
-### The Importance of Time Management
+## Things I've Learned Through My Failures In Just This Week
+
+*“There is only one thing that makes a dream impossible to achieve: the fear of failure.”* - Paulo Coelho
 
 ### Learning Curve
-	
 
-<img src="">
 
-### Tips
+
+
+### Must Have Tools
 
 * 	list
 * 	list
 
-### Semantic UI
+### Time Managment
 
 
-### Final Thoughts 
+### Finish Not Perfect
 
-Love it or hate it, coding standards is integral in group works, and in the Computer Science industry in general. I’d hate to be that engineer who's taken over someone elses work. Only to find that it is convoluted and inundated in bad coding practices, consequently preventing me in making any real progress. And I wouldn’t be as shameful to be that engineer to give over a work I know no one will understand except for myself. It’s one way of keeping a job I suppose but very bad teamwork.
