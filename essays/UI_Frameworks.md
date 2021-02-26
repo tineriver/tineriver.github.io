@@ -48,7 +48,7 @@ Original Image | Edited Version
 ------------ | -------------
 <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/seaWallOriginal.png?raw=true" alt="Sea Wall Original Image"> | <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/seaWallMine.png?raw=true" alt="Sea Wall Original Edited">
 
- The website I wished to imitate, <a href="https://seawalls.org/murals/" alt="seawalls.org">seawalls.org</a>, did not provide an already edited image. Fortunately, through scouring google I was able to figure how to add a linear gradient overlay over the picture. At first, I attached it to the UI dimmer, but upon noticing that the overlay hides as soon as I click on the image, I decided to attached the overlay on the image directly. Although I did not use the dimmer component, it was still nice to practice.
+ The website I wished to imitate, <a href="https://seawalls.org/murals/" alt="seawalls.org">seawalls.org</a>, did not provide an already edited image. Fortunately, through scouring google I was able to figure how to add a linear gradient overlay over the picture. At first, I attached it to the UI dimmer, but upon noticing that the overlay hides as soon as I click on the image, I decided to attached the overlay on the image directly. Although I did not use the dimmer component in the end, it was still nice to practice.
 
 **Example:**
 
