@@ -27,9 +27,9 @@ Using just the HTML and CSS language alone to make a responsive and beautiful we
 
 ### Must Have Tools
 
-If your anything like me, susceptible to being sucked into the rabbit hole of web designing. Then you’ll need these must have tools with you if you care to maintain your sanity and your free time free.
+If your anything like me, susceptible to being sucked into the rabbit hole of web designing. Then you’ll need these must have tools with you if you care to maintain your sanity and your free time, free.
 
-* 	<b><a href="https://semantic-ui.com/introduction/getting-started.html" alt="Semantic UI Documentation">Semantic UI Documentation</a>: </b> Although one can go through web design building through guesses, by all means do it if it works. But building a website using Semantic UI is not all idiot proof. In fact, you’ll find guessing a huge waste of time, and a lot of headaches than going through the proper channels to find exactly the variable or component to use. 
+* 	<b><a href="https://semantic-ui.com/introduction/getting-started.html" alt="Semantic UI Documentation">Semantic UI Documentation</a>: </b> Although one can go through web design building through guesses, by all means do it if it works. But building a website using Semantic UI is not at all idiot proof. In fact, you’ll find guessing a huge waste of time, and a lot of headaches than going through the proper channels to find exactly the variable or component to use. 
 
 * 	<b><a href="https://developers.google.com/web/tools/chrome-devtools" alt="Chrome Devtools">Chrome Devtools</a>:</b> A lot can be learned from copying. It has always been one of the first steps to mastering anything, from design, music or art. So it’s no surprise that aspiring web designers would go out of their way and dissect websites they deemed imitable.
 
@@ -48,15 +48,16 @@ Original Image | Edited Version
 ------------ | -------------
 <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/seaWallOriginal.png?raw=true" alt="Sea Wall Original Image"> | <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/seaWallMine.png?raw=true" alt="Sea Wall Original Edited">
 
- The website I wished to imitate, https://seawalls.org/murals/, did not provide an already edited image. Fortunately, through scouring google I was able to figure how to add a linear gradient overlay over the picture. At first, I attached it to the UI dimmer, but upon noticing that the overlay hides as soon as I click on the image, I decided to attached the overlay on the image itself. Although I did use the dimmer component, it was still nice having to practice using it.
+ The website I wished to imitate, https://seawalls.org/murals/, did not provide an already edited image. Fortunately, through scouring google I was able to figure how to add a linear gradient overlay over the picture. At first, I attached it to the UI dimmer, but upon noticing that the overlay hides as soon as I click on the image, I decided to attached the overlay on the image itself. Although I did not use the dimmer component, it was still nice having to practice using it.
 
 **Example:**
+
     .grad-background {
-       background: **linear-gradient(to bottom, rgba(85,213,213,0.5), rgba(37,93,213,0.5))**,url('image url');
-       background-size: cover;
-       height: 400px;
-       background-position: center;
-       background-attachment: scroll;
+      background: **linear-gradient(to bottom, rgba(85,213,213,0.5), rgba(37,93,213,0.5))**,url('image url');
+      background-size: cover;
+      height: 400px;
+      background-position: center;
+      background-attachment: scroll;
     }
 
 #### Embeded Google Map
@@ -103,4 +104,4 @@ I enjoyed tinkering with this ui module the most, as it reminds me of polaroid p
     
 ### Finish Not Perfect
 
-If I have to take away just one thing I learned from throughout this experience, is that to finish not perfect. Although I’ve learned so much useful things whilst being sidetracked, in hindsight it would’ve been better to finish the project, turn it in, get the credit and then continue obsessing at my behest. Afterall the objective of learning through imitation it not to get the exact replica but to learn to imitate in your own unique and creative way. Even if it means some parts look different, the main focus is to take away all the parts of the website that you love and make it your own.
+If I have to take away just one thing I learned throughout this experience, is that to finish not perfect. Although I’ve learned so much useful things whilst being sidetracked, in hindsight it would’ve been better to finish the project, turn it in, get the credit and then continue obsessing at my behest. Afterall the objective of learning through imitation it not to get the exact replica but to learn to imitate in your own unique and creative way. Even if it means some parts look different, the main focus is to take all the parts of the website that you love and make it your own.
