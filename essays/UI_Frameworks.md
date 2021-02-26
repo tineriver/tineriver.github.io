@@ -61,8 +61,8 @@ Original Image | Edited Version
 
 #### Embeded Google Map
 
-`<iframe class="ui emded" src="google url" width="##" height="##" style="border:0;" allowfullscreen="" loading="lazy"></iframe>` | <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/GoogleMap.png?raw=true">
------------- | -------------
+<img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/GoogleMap.png?raw=true">
+```<iframe class="ui emded" src="google url" width="##" height="##" style="border:0;" allowfullscreen="" loading="lazy"></iframe>```
 
 Embedding google maps is as easy as copy and paste. Just make sure to ad **class=”ui embed”**. 
 
