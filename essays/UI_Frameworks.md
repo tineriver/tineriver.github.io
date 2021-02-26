@@ -29,7 +29,7 @@ Using just the HTML and CSS language alone to make a responsive and beautiful we
 
 If your anything like me, susceptible to being sucked into the rabbit hole of web designing. Then you’ll need these must have tools with you if you care to maintain your sanity and your free time free.
 
-* 	<b><a href="https://semantic-ui.com/introduction/getting-started.html" alt="Semantic UI Documentation">Semantic UI Documentation</a>: </b> Although one can go through web design building through guesses, by all means do it if it works. But building a website using Semantic UI is not all idiot proof. In fact, you’ll find guessing is a huge waste of time, and a lot of headaches than going through the proper channels to find exactly the variable or component to use. 
+* 	<b><a href="https://semantic-ui.com/introduction/getting-started.html" alt="Semantic UI Documentation">Semantic UI Documentation</a>: </b> Although one can go through web design building through guesses, by all means do it if it works. But building a website using Semantic UI is not all idiot proof. In fact, you’ll find guessing a huge waste of time, and a lot of headaches than going through the proper channels to find exactly the variable or component to use. 
 
 * 	<b><a href="https://developers.google.com/web/tools/chrome-devtools" alt="Chrome Devtools">Chrome Devtools</a>:</b> A lot can be learned from copying. It has always been one of the first steps to mastering anything, from design, music or art. So it’s no surprise that aspiring web designers would go out of their way and dissect websites they deemed imitable.
 
