@@ -62,11 +62,35 @@ Original Image | Edited Version
 #### Embeded Google Map
 
 <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/GoogleMap.png?raw=true">
-```<iframe class="ui emded" src="google url" width="##" height="##" style="border:0;" allowfullscreen="" loading="lazy"></iframe>```
+
+`<iframe class="ui emded" src="google url" width="##" height="##" style="border:0;" allowfullscreen="" loading="lazy"></iframe>`
 
 Embedding google maps is as easy as copy and paste. Just make sure to ad **class=”ui embed”**. 
 
 #### Linked Cards
 
+<img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/UICards.png?raw=true">
+
+    <div class="ui link cards">
+
+      <div class="card" style="margin: 15px">
+        <div class="image">
+          <img src="https://seawalls.org/wp-content/uploads/2018/11/Fuzeillear_Final_Cairns_2018_©Yoshi_Yanagita_12-800x600.jpg" id="card">
+        </div>
+        <div class="content">
+          <div class="header">Australia</div>
+        </div>
+        <div class="extra content">
+          <span class="right floated">
+            <a class="text" id="view">View Location</a>
+          </span>
+          <span class="left floated">
+            18 Murals
+          </span>
+        </div>
+      </div>
+    ...
+    </div>
+    
 ### Finish Not Perfect
 
