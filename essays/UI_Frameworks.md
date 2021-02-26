@@ -10,7 +10,7 @@ labels:
   - Semantic UI
 ---
 
-## Things I've Learned Through My Failures In Just These Past Two Weeks
+## Things I've Learned These Past Two Weeks
 
 *“A designer is a planner with an aesthetic sense.”* - Bruno Munari, Design as Art
 
