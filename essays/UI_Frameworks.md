@@ -29,10 +29,13 @@ Using just the HTML and CSS language alone to make a responsive and beautiful we
 
 If your anything like me, susceptible to being sucked into the rabbit hole of web designing. Then you’ll need these must have tools with you if you care to maintain your sanity and your free time free.
 
-* 	<b><a href="https://semantic-ui.com/introduction/getting-started.html" alt="Semantic UI Documentation">Semantic UI Documentation</a>:</b> Although one may go through websites design through guesses, by all means do it if it works. But building a website using Semantic UI is not all idiot proof. In fact, you’ll find guessing is a huge waste of time, and a lot of headaches than going through the proper channels to find exactly the variable or component to use. 
-* 	<b><a href="https://developers.google.com/web/tools/chrome-devtools" alt="Chrome Devtools">Chrome Devtools</a>:</b>
-* 	<b><a href="https://apps.apple.com/tt/app/devswatch/id1477857867?mt=12" alt="DevSwatch App">Color Picker</a>:</b>
-* 	<b><a href="https://www.forestapp.cc/" alt="Forest App">Pomodoro Timer</a>:</b>
+* 	<b><a href="https://semantic-ui.com/introduction/getting-started.html" alt="Semantic UI Documentation">Semantic UI Documentation</a>: </b> Although one can go through web design building through guesses, by all means do it if it works. But building a website using Semantic UI is not all idiot proof. In fact, you’ll find guessing is a huge waste of time, and a lot of headaches than going through the proper channels to find exactly the variable or component to use. 
+
+* 	<b><a href="https://developers.google.com/web/tools/chrome-devtools" alt="Chrome Devtools">Chrome Devtools</a>:</b> A lot can be learned from copying. It has always been one of the first steps to mastering anything, from design, music or art. So it’s no surprise that aspiring web designers would go out of their way and dissect websites they deemed imitable.
+
+* 	<b><a href="https://apps.apple.com/tt/app/devswatch/id1477857867?mt=12" alt="DevSwatch App">Color Picker</a>: </b> Would you rather scroll through lines and lines of code just to get the exact hex color code to copy? Or use an app to copy a color with just a few clicks of the mouse? As much as I want a perfect copy, it’s best to do the latter and use that extra time doing other things, like learning the ukulele.
+
+* 	<b><a href="https://www.forestapp.cc/" alt="Forest App">Pomodoro Timer</a>: </b> If focusing is as much as a challenge to you as it is for me, then I suggest you get yourself a Pomodoro. Forest, is my preferred choice. Set a timer and dedicate that time to focus on an objective without getting sidetrack or obsessive over a minor detail. Plus you get to grow your own digital forest or save those coins and plant an actual tree in real life.
 
 ### Notable Discoveries Though Copying
 
