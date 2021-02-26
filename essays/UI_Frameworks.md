@@ -33,6 +33,7 @@ If your anything like me, susceptible to being sucked into the rabbit hole of we
 
 * 	<b><a href="https://developers.google.com/web/tools/chrome-devtools" alt="Chrome Devtools">Chrome Devtools</a>:</b> A lot can be learned from copying. It has always been one of the first steps to mastering anything, from design, music or art. So it’s no surprise that aspiring web designers would go out of their way and dissect websites they deemed imitable.
 
+
 * 	<b><a href="https://apps.apple.com/tt/app/devswatch/id1477857867?mt=12" alt="DevSwatch App">Color Picker</a>: </b> Would you rather scroll through lines and lines of code just to get the exact hex color code to copy? Or use an app to copy a color with just a few clicks of the mouse? As much as I want a perfect copy, it’s best to do the latter and use that extra time doing other things, like learning the ukulele.
 
 * 	<b><a href="https://www.forestapp.cc/" alt="Forest App">Pomodoro Timer</a>: </b> If focusing is as much as a challenge to you as it is for me, then I suggest you get yourself a Pomodoro. Forest, is my preferred choice. Set a timer and dedicate that time to focus on an objective without getting sidetrack or obsessive over a minor detail. Plus you get to grow your own digital forest or save those coins and plant an actual tree in real life.
@@ -41,8 +42,15 @@ If your anything like me, susceptible to being sucked into the rabbit hole of we
 
 A lot can be learned through failure, and these past few weeks I’ve learned plenty. I learned that although through carefully planned steps to combat my tendencies of obsessively working over tiny, minute details with no regard to the ticking time clock of which the assignments are due! Plans can often get derailed, and brain chemistry is weird. Nevertheless, losing out 10 points didn’t stop me from obsessively achieving what I consider the exact copy until 3 am of which I could no longer keep any intelligible thoughts. This experience however gave my plenty of practice in using other components in the UI Semantic framework.
 
-*   Dimmer & Linear Gradient Overlays
+*   Dimmer & Linear Gradient Overlays 
+
+Original Image | Edited Version
+------------ | -------------
+<img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/seaWallOriginal.png?raw=true" alt="Sea Wall Original Image"> | <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/seaWallMine.png?raw=true" alt="Sea Wall Original Edited"></img>
+
+
 *   Embeded Google Map
+
 *   Linked Cards
 
 ### Finish Not Perfect
