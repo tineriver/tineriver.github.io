@@ -40,7 +40,7 @@ If your anything like me, susceptible to being sucked into the rabbit hole of we
 
 ### Notable Discoveries Though Copying
 
-A lot can be learned through failure, and these past few weeks I’ve learned plenty. I learned that although through carefully planned steps to combat my tendencies of obsessively working over tiny, minute details with no regard to the ticking time clock of which the assignments are due! Plans can often get derailed, and brain chemistry is weird. Nevertheless, losing out 10 points didn’t stop me from obsessively achieving what I consider the exact copy until 3 am of which I could no longer keep any intelligible thoughts. This experience however gave my plenty of practice in using other components in the UI Semantic framework.
+A lot can be learned through failure, and these past few weeks I’ve learned plenty. I learned that although through carefully planned steps to combat my tendencies of obsessively working over tiny, minute details with no regard to the ticking time clock of which the assignments are due! Plans can often get derailed, and brain chemistry is weird. Nevertheless, losing out 10 points didn’t stop me from obsessively achieving what I consider the exact copy until 3 am, which is when I could no longer keep any intelligible thoughts. This experience however gave my plenty of practice in using other components in the UI Semantic framework.
 
 #### Dimmer & Linear Gradient Overlays 
 
