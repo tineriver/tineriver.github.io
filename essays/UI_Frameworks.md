@@ -46,10 +46,14 @@ A lot can be learned through failure, and these past few weeks I’ve learned pl
 
 Original Image | Edited Version
 ------------ | -------------
-<img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/seaWallOriginal.png?raw=true" alt="Sea Wall Original Image"> | <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/seaWallMine.png?raw=true" alt="Sea Wall Original Edited"></img>
+<img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/seaWallOriginal.png?raw=true" alt="Sea Wall Original Image"> | <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/seaWallMine.png?raw=true" alt="Sea Wall Original Edited">
 
 
 *   Embeded Google Map
+
+`<iframe class="ui emded" src="google url" width="##" height="##" style="border:0;" allowfullscreen="" loading="lazy"></iframe>` | <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/GoogleMap.png?raw=true">
+------------ | -------------
+
 
 *   Linked Cards
 
