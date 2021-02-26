@@ -16,7 +16,7 @@ labels:
 
 A functional and esthetically pleasing website or application is very important, not just for a good first impression but for an intuitive, “easy to use” user experience. After all, the easier your website is to use, the more people will use it. These past two weeks has been dedicated in learning HTML, CSS and the Semantic UI Framework, to make intuitive and esthetically pleasing websites.
 
-The design aspects of computer science always give me the feeling of both excitement and dread. This is because I love designing and also because I know how I am working with design, obsessive with no respect for time management, in the least. As the days coming to these past two weeks unfurled, I prepared myself. I set out a game plan, hoping that working with HTML, CSS and UI Frameworks won’t trigger any of my ADHD tendencies and cost me any more points off of my grade. Here is a record, chronicling how I have done that and how I failed.
+The design aspects of computer science always gave me the feeling of both excitement and dread. This is because I love designing and also because I know how I am working with design, obsessive with no respect for time management, in the least. As the days coming to these past two weeks unfurled, I prepared myself. I set out a game plan, hoping that working with HTML, CSS and UI Frameworks won’t trigger any of my ADHD tendencies and cost me any more points off of my grade. Here is a record, chronicling how I have done that and how I failed.
 
 
 ### Learning Curve
@@ -39,6 +39,11 @@ If your anything like me, susceptible to being sucked into the rabbit hole of we
 
 ### Notable Discoveries Though Copying
 
+A lot can be learned through failure, and these past few weeks I’ve learned plenty. I learned that although through carefully planned steps to combat my tendencies of obsessively working over tiny, minute details with no regard to the ticking time clock of which the assignments are due! Plans can often get derailed, and brain chemistry is weird. Nevertheless, losing out 10 points didn’t stop me from obsessively achieving what I consider the exact copy until 3 am of which I could no longer keep any intelligible thoughts. This experience however gave my plenty of practice in using other components in the UI Semantic framework.
+
+*   Dimmer & Linear Gradient Overlays
+*   Embeded Google Map
+*   Linked Cards
 
 ### Finish Not Perfect
 
