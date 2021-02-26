@@ -42,7 +42,7 @@ If your anything like me, susceptible to being sucked into the rabbit hole of we
 
 A lot can be learned through failure, and these past few weeks I’ve learned plenty. I learned that although through carefully planned steps to combat my tendencies of obsessively working over tiny, minute details with no regard to the ticking time clock of which the assignments are due! Plans can often get derailed, and brain chemistry is weird. Nevertheless, losing out 10 points didn’t stop me from obsessively achieving what I consider the exact copy until 3 am of which I could no longer keep any intelligible thoughts. This experience however gave my plenty of practice in using other components in the UI Semantic framework.
 
-*   Dimmer & Linear Gradient Overlays 
+#### Dimmer & Linear Gradient Overlays 
 
 Original Image | Edited Version
 ------------ | -------------
@@ -50,7 +50,7 @@ Original Image | Edited Version
 
  The website I wished to imitate, https://seawalls.org/murals/, did not provide an already edited image. Fortunately, through scouring google I was able to figure how to add a linear gradient overlay over the picture. At first, I attached it to the UI dimmer, but upon noticing that the overlay hides as soon as I click on the image, I decided to attached the overlay on the image itself. Although I did use the dimmer component, it was still nice having to practice using it.
 
-#### Example:
+**Example:**
     .grad-background {
        background: **linear-gradient(to bottom, rgba(85,213,213,0.5), rgba(37,93,213,0.5))**,url('image url');
        background-size: cover;
@@ -59,13 +59,14 @@ Original Image | Edited Version
        background-attachment: scroll;
     }
 
-*   Embeded Google Map
+#### Embeded Google Map
 
 `<iframe class="ui emded" src="google url" width="##" height="##" style="border:0;" allowfullscreen="" loading="lazy"></iframe>` | <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/GoogleMap.png?raw=true">
 ------------ | -------------
 
+Embedding google maps is as easy as copy and paste. Just make sure to ad **class=”ui embed”**. 
 
-*   Linked Cards
+#### Linked Cards
 
 ### Finish Not Perfect
 
