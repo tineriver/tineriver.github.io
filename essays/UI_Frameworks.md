@@ -30,9 +30,11 @@ Using just the HTML and CSS language alone to make a responsive and beautiful we
 If your anything like me, susceptible to being sucked into the rabbit hole of web designing. Then you’ll need these must have tools with you if you care to maintain your sanity and your free time free.
 
 * 	<b><a href="https://semantic-ui.com/introduction/getting-started.html" alt="Semantic UI Documentation">Semantic UI Documentation</a>:</b> Although one may go through websites design through guesses, by all means do it if it works. But building a website using Semantic UI is not all idiot proof. In fact, you’ll find guessing is a huge waste of time, and a lot of headaches than going through the proper channels to find exactly the variable or component to use. 
-* 	list
+* 	<b>Chrome Devtools:</b> 
+* 	<b>Color Picker:</b> 
+* 	<b>Pomodoro Timer:</b>
 
-### Time Managment
+### Notable Discoveries Though Copying
 
 
 ### Finish Not Perfect
