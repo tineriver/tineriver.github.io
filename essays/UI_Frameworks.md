@@ -48,6 +48,16 @@ Original Image | Edited Version
 ------------ | -------------
 <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/seaWallOriginal.png?raw=true" alt="Sea Wall Original Image"> | <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/seaWallMine.png?raw=true" alt="Sea Wall Original Edited">
 
+ The website I wished to imitate, https://seawalls.org/murals/, did not provide an already edited image. Fortunately, through scouring google I was able to figure how to add a linear gradient overlay over the picture. At first, I attached it to the UI dimmer, but upon noticing that the overlay hides as soon as I click on the image, I decided to attached the overlay on the image itself. Although I did use the dimmer component, it was still nice having to practice using it.
+
+#### Example:
+    .grad-background {
+       background: **linear-gradient(to bottom, rgba(85,213,213,0.5), rgba(37,93,213,0.5))**,url('image url');
+       background-size: cover;
+       height: 400px;
+       background-position: center;
+       background-attachment: scroll;
+    }
 
 *   Embeded Google Map
 
