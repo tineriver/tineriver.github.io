@@ -71,6 +71,7 @@ Embedding google maps is as easy as copy and paste. Just make sure to ad **class
 
 <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/UICards.png?raw=true">
 
+    HTML:
     <div class="ui link cards">
 
       <div class="card" style="margin: 15px">
@@ -92,5 +93,14 @@ Embedding google maps is as easy as copy and paste. Just make sure to ad **class
     ...
     </div>
     
+    CSS:
+    #card{
+      border-radius: 0px !important;
+      height: 200px;
+    }
+    
+I enjoyed tinkering with this ui module the most, as it reminds me of polaroid pictures. 
+    
 ### Finish Not Perfect
 
+If I have to take away just one thing I learned from throughout this experience, is that to finish not perfect. Although I’ve learned so much useful things whilst being sidetracked, in hindsight it would’ve been better to finish the project, turn it in and get the credit and then continue obsessing at my behest. Afterall the objective of learning through imitation it not to get the exact replica but to learn to imitate in your own unique and creative way. Even if it means some parts look different, the main focus is to take away all the parts of the website and make it your own.
