@@ -26,6 +26,7 @@ The most widely used pattern design and which I’ve recently came to know, the 
 
 ## Factory
 
+The factory design, like its name does exactly what a factory does. Produces goods, or in this case in software development, objects, without exposing underlying logic. Basically, it provides an interface for creatin objects but allows this object to be altered. Like how a fashion house can make both ready to wear clothes for regular fashionistas and haute couture clothes for rich fashion collectors. In programming this is done by calling a factory method instead of a constructor. In Bowfolios, we used the define function, and this allows us to create objects in our collections with less stringent rules.
 
 
 
