@@ -18,7 +18,15 @@ The first design pattern is what I’m most familiar with and will always have a
 
 ## Observer
 
-The Observer design pattern is where there is a subject that maintains a list of dependents or subscribers which notifies them automatically of any changes. Similar to when you are subscribed to a mailing list for a particular pair of pants you have an eye out for the longest time and you are waiting for it to be restocked. The subject, i.e. the online store notifies you, the subscriber, once they are in stock. In the similar project I mentioned, this design pattern was implemented to our Profiles collection, the collection is published to invoke subscription to observers and under the UI section of the app there is a method to subscribe to the collection in order to access and display the data in the collection. Meteor’s “Reactivity” is a version of this pattern, where once any of the data in a collection is edited, there is a method that runs and reactively updates the data displayed.
+The Observer design pattern is where there is a subject that maintains a list of dependents or subscribers which notifies them automatically of any changes. Similar to when you are subscribed to a mailing list for a particular pair of pants you have an eye out for the longest time and you are waiting for it to be restocked. The subject, i.e. the online store notifies you, the subscriber, once they are in stock. In the similar project I mentioned, this design pattern was implemented to our Profiles collection, the collection is published to invoke subscription to observers and under the UI section of the app there is a method to subscribe to the collection in order to access and display the data in the collection. Meteor’s “Reactivity” is a version of this pattern, where once any of the data in a collection is edited, there is a method that runs and reactively updates the data displayed. The observer design pattern makes reactivity of websites possible, the instant refresher is something you just can’t go without in today’s modern software designing.
+
+## Singleton
+
+The most widely used pattern design and which I’ve recently came to know, the singleton is a design pattern that provides a global variable which ensures that limits creation of a class to one object. This ensures that there is only one instance of a class which is needed to coordinate actions across this system. This design pattern is implemented while designing our Profiles and Vendors collections in our project. It would be a problem if there was more than one of the same vendor exists in our system, how would our users differentiate which data is the current one from the other. And how would vendors pick which data to edit? The singleton solution solves this problem.
+
+## Factory
+
+
 
 
 
