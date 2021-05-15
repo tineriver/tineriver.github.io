@@ -8,7 +8,7 @@ permalink: projects/Grub-n-go
 date: 2021-05-14
 labels:
   - JavaScript
-summary: An application that...
+summary: A web application developed for University of Hawaii at Manoa. Enables students and community members to help facilitate their food based decision making.
 ---
 
 <img src="https://grub-n-go.github.io/image/landingpage.PNG" width="600">
