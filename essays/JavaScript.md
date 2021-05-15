@@ -9,7 +9,7 @@ labels:
 ---
 ## Learning A New Language : JavaScript
 
-<img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/javascript.png?raw=true" width="900">
+<img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/javascript.png?raw=true" width="600">
 
 Learning a new language is always hard, often times it takes years. But just like human languages, once you learn one and move on to another quite similar to the one before, often you’ll find that it has become a lot easier. This was the case when I started learning French, taking my knowledge of the roman language Spanish that has heavily influenced my native language, Tagalog, and the language I’m most fluent in, English, I’ve found that a little of those two languages can look a bit similar to French. With other computer languages under my belt, Java and C++, learning Javascript has been a similar experience. 
   
