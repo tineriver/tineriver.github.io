@@ -108,10 +108,11 @@
       ]
     }
   ],
-  "volunteer": [
-  ],
   "awards": [
-    "TBA"
+    "title": "TBA",
+    "date": "",
+    "awarder": "",
+    "summary": ""
   ],
   "references": [
     {
