@@ -27,6 +27,6 @@ They may be above my current skill sets, but I can already pinpoint some aspects
 
 ## Development Environments
 
-
+After being familiarized with IntelliJ IDEA and finding the environment’s similarities with another IDE (integrated development environment) I have used before. This gave me the confidence to comfortably explore other IDE’s. Certain IDE’s are used in projects, large software’s or companies and the experience I received helps me in understanding software systems a lot faster. It has also made it possible for me to get the grasp of some design patterns used in the Bowfolios project. For a methodical person like me, organization is everything, therefore I can’t see myself working on another big project without the use of an IDE.
 
 ## User Interface Frameworks
