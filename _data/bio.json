@@ -68,8 +68,8 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
+        "GitHub",
+        "C/C++",
         "TI LaunchPad",
         "IntelliJ IDEA"
       ]
@@ -100,7 +100,7 @@
       "position": "Accounting Assistant",
       "website": "https://www.coscohawaii.com/",
       "startDate": "2016-06-14",
-      "endDate": "Present",
+      "endDate": "2021-02-16",
       "summary": "",
       "highlights": [
         "Manage accounts payable transactions",
