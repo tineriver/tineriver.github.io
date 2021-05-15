@@ -11,6 +11,10 @@ labels:
 summary: A web application developed for University of Hawaii at Manoa. Enables students and community members to help facilitate their food based decision making.
 ---
 
+#### [Github Repository](https://github.com/grub-n-go/grub-n-go)
+#### [Home Page](https://grub-n-go.github.io/)
+#### [Deployed Site](https://grubngo.xyz/)
+
 [Grub-n-Go](https://grubngo.xyz/) is a web application to combat the problems of UH community members decision making in deciding which food venue to eat. The goal is to provide restaurants, food trucks and cafeteria near the University of Hawaii at Manoa campus. Software development tools implemented to produce this app includes:
 
 * Meteor: Open-source platform used for server and client code
