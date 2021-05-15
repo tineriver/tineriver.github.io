@@ -8,6 +8,9 @@ permalink: projects/Grub-n-go
 date: 2021-05-14
 labels:
   - JavaScript
+  - Meteor
+  - React
+  - Semantic UI React
 summary: A web application developed for University of Hawaii at Manoa. Enables students and community members to help facilitate their food based decision making.
 ---
 
