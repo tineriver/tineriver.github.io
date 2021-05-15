@@ -18,7 +18,7 @@ summary: A web application developed for University of Hawaii at Manoa. Enables 
 * Semantic UI React:  Modern front-end development framework to implement themes and UI components
 * Underscore.js: JavaScript library providing useful functions for common programming tasks.
 
-Students and faculty members at University of Hawaii at Manoa have all but the same conundrums when it’s time to take a much-needed break and eat. The problem is that there are too many places and choices to choose from, experiencing choice overload will often cut down on time worth using to study or work. The UH Campus houses: food trucks, food stands, a campus center, vending machines, well known restaurants, and many more. Often, people would just want a quick bite to eat and choose from which establishment is closer or choose based on their certain cravings. The Grub-n-Go app enables you to login within the Manoa system, on your phone and determine:
+Students and faculty members at University of Hawaii at Manoa have all but the same conundrums when it’s time to take a much-needed break and eat. The problem is that there are too many places and choices to choose from, experiencing choice overload will often cut down on time worth using to study or work. The UH Campus houses: food trucks, food stands, a campus center, vending machines, well known restaurants, and many more. Often, people would just want a quick bite to eat and choose from which establishment is closer or choose based on their certain cravings. The Grub-n-Go application enables you to login on your phone or computer and determine:
 
 * The daily menu items available on the campus center locations
 * What food items are available in each food establishments
