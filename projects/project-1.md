@@ -8,7 +8,7 @@ permalink: projects/Pokemon
 date: 2019-05-07
 labels:
   - Java
-summary: My first project created by java.
+summary: A playable Pokemon game executed using Java. My first endeavor to learning the process of constructing an playable application using user interface.
 ---
 
 My first exposure to making a fully formed and working application was in my first ICS class, where I learned the Java. Never having any experience in coding, the learning curve to learning my very first programming language was steep and slow moving. The experience was truly invaluable given that it gave me the foundations to quickly learn other programming languages rather quickly. 
