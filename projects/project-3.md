@@ -26,9 +26,6 @@ Students and faculty members at University of Hawaii at Manoa have all but the s
 
 ## Development
 
-![image](https://user-images.githubusercontent.com/40307136/118345624-7a6c1400-b4d1-11eb-88be-e3fd4331cbeb.png)
-
-
 <img src="https://grub-n-go.github.io/image/landingpage.PNG" width="600">
 
 
