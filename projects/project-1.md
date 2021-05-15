@@ -11,7 +11,7 @@ labels:
 summary: My first project created by java.
 ---
 
-My first exposure to making a fully formed and working application was in my first ICS class, ICS 111, where I learned the Java. Never having any experience in coding, the learning curve to learning my very first programming language was steep and slow moving. The experience was truly invaluable given that it gave me the foundations to quickly learn other programming languages rather quickly. 
+My first exposure to making a fully formed and working application was in my first ICS class, where I learned the Java. Never having any experience in coding, the learning curve to learning my very first programming language was steep and slow moving. The experience was truly invaluable given that it gave me the foundations to quickly learn other programming languages rather quickly. 
 
 This project incapsulates all that was learned in the course, from defining and executing variable’s, creating loops, arrays, classes and methods to familiarizing with object hierarchy and inheritance in java. What really caught my interest throughout this project however is learning about UI, user interface, and using it to facilitate and enhancing user’s experience. I’ve always been in love with art and design and to merge it with coding, was just the icing on a cake.
 
