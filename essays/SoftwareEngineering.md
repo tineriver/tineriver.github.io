@@ -17,7 +17,7 @@ My journey in learning software development started out pretty rocky. I did not 
 
 ## Open Source Software Development
 
-As a student, the abundant resources available online is both a blessing and a privilege. This allows would be aspiring designers and also professionals to learn from, freely modify or incorporate already made open-source projects into larger projects. This facilitates innovations and promotes a free exchange of ideas within the software designing community. Having learned of this concept, makes it possible for me to learn from other designers and incorporating their ideas to mine. I already have an eye out on a few GitHub projects:
+As a student, the abundant resources available online is both a blessing and a privilege. This allows aspiring designers and also professionals to learn from, freely modify or incorporate already made open-source projects into larger projects. This facilitates innovations and promotes a free exchange of ideas within the software designing community. Having learned of this concept, makes it possible for me to learn from other designers and incorporating their ideas to mine. I already have an eye out on a few GitHub projects:
 
 * [Simple Coin](https://github.com/cosme12/SimpleCoin)
 * [Raspberry-Pi-Gaming-Console](https://github.com/AHueya/Raspberry-Pi-Gaming-Console)
