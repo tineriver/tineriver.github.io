@@ -6,12 +6,11 @@ title: Coding Standard
 date: 2021-02-11
 labels:
   - JavaScript
-  - ESlint
   - Coding Standards
 ---
 
   
-Communicating effectively is an artform, whether through an essay, a painting, a movie or even written in code. There’s nothing more satisfying than reading 
+Communicating effectively is an art form, whether through an essay, a painting, a movie or even written in code. There’s nothing more satisfying than reading
 a piece of code and knowing exactly what the coder was trying to convey or to do with his/her algorithm. Contrariwise, anyone who’s ever worked with code 
 knows the feeling of frustration from not understanding a piece of bad coding. I know the feeling all too well while taking up my first computer science course, and I’m sure my fellow classmates had felt the same way about mines. This led me to feel quite apprehensive about working with other fellow humans. How are we to understand each other if we all write code differently. To my relief there is already an answer to this predicament, enter the coding standards.
 
@@ -33,26 +32,26 @@ Above shows corrections needed to be resolved, indicated by a red zigzag underli
 
 If I am allowed to make a complaint it is this; the installation time, I can definitely go without. One thing I am not use to, is having to install the ESLint 
 for every project. I am a slow coder, and that is my fault, I will work on that. However, I would be so grateful if we can just install the tool once and have 
-it to work in the background for all our projects. I have memorized the steps to install ESLint to IntellJ IDEA and to summarize the procedure:
+it to work in the background for all our projects. I have memorized the steps to install ESLint to IntelliJ IDEA and to summarize the procedure:
 
 * 	Create a new repository to Github & clone to desktop.
-* 	Create a web project on IntellJ IDEA
+* 	Create a web project on IntelliJ IDEA
 * 	Download sample.eslintrc, sample.package.json and  Sample.gitignore
 * 	Copy to your local repository as: .eslintrc, package.json, .gitignore respectively
-* 	Intall npm on IntellJ IDEA, making sure there are 0 vulnerabilities
-* 	IntellJ IDEA > preferences > Editor > Inspections, uncheck everything under JavaScript and TypeScript and select ESLint under Code quality tools
-* 	IntellJ IDEA > preferences > Editor > Languages & Frameworks > Code Quality Tools, select ESLint
+* 	Install npm on IntelliJ IDEA, making sure there are 0 vulnerabilities
+* 	IntelliJ IDEA > preferences > Editor > Inspections, uncheck everything under JavaScript and TypeScript and select ESLint under Code quality tools
+* 	IntelliJ IDEA > preferences > Editor > Languages & Frameworks > Code Quality Tools, select ESLint
  
 Although the procedure is a bit cumbersome and with all my complaints. In the end, I’d rather take the extra minutes to install ESLint, than to do without.
 
 ### AirBnB JavaScript Style Guide Impression
 
-I haven’t had the chance to look though the guidelines myself, since ESLint in IntellJ IDEA is so intuitive just by itself. Nevertheless, I am really glad this 
+I haven’t had the chance to look though the guidelines myself, since ESLint in IntelliJ IDEA is so intuitive just by itself. Nevertheless, I am really glad this
 style guide was made available to us. I had many frustrating episodes with other coding standard tools telling me to correct lines of codes without instructions
 or references. This style guide, if I ever I need it, will save me hours of scouring through the internet and many coding forums in order to fix a single coding
 mistake. So, thank you very much, I truly appreciate it.
 
 ### Final Thoughts 
 
-Love it or hate it, coding standards is integral in group works, and in the Computer Science industry in general. I’d hate to be that engineer who's taken over someone elses work. Only to find that it is convoluted and inundated in bad coding practices, consequently preventing me in making any real progress. And I wouldn’t be as shameful to be that engineer to give over a work I know no one will understand except for myself. It’s one way of keeping a job I suppose but very bad teamwork.
+Love it or hate it, coding standards is integral in group works, and in the Computer Science industry in general. I’d hate to be that engineer who's taken over someone else's work. Only to find out that it's convoluted and inundated in bad coding practices, consequently preventing me in making any real progress. I for one would not be as shameful to be that engineer to give over a work I know no one will understand except for myself. It’s one way of keeping a job I suppose but very bad teamwork.
 

@@ -27,7 +27,7 @@ UHM students and faculty members always have a ton of work to do. However, our b
 * Note: Students can also use their Manoa One Card if applicable
 
 ### Approach
-Similar to BiteSquad and Ubereats, except for the following:
+Similar to BiteSquad and Uber Eats, except for the following:
 * Buyer and sellers must be a UH student or faculty member.
 
 *Roles:* There are at least three roles in this system: users, vendors and administrators. Users are able to buy food items and set up the time and place of the delivery. Vendors are able to advertise food items on an online store, and administrators are special users who have the ability to monitor the behaviors of users in the system.

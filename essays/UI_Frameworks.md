@@ -40,7 +40,7 @@ If your anything like me, susceptible to being sucked into the rabbit hole of we
 
 ### Notable Discoveries Though Copying
 
-A lot can be learned through failure, and these past few weeks I’ve learned plenty. I learned that although through carefully planned steps to combat my tendencies of obsessively working over tiny, minute details with no regard to the ticking time clock of which the assignments are due! Plans can often get derailed, and brain chemistry is weird. Nevertheless, losing out 10 points didn’t stop me from obsessively achieving what I consider the exact copy until 3 am, which is when I could no longer keep any intelligible thoughts. This experience however gave my plenty of practice in using other components in the UI Semantic framework.
+A lot can be learned through failure, and these past few weeks I’ve learned plenty. I learned that although through carefully planned steps to combat my tendencies of obsessively working over tiny, minute details with no regard to the ticking time clock of which the assignments are due! Plans can often get derailed, and brain chemistry is weird. Nevertheless, losing out 10 points did not stop me from obsessively achieving what I consider the exact copy until 3 am, which is when I could no longer keep any intelligible thoughts. This experience however gave my plenty of practice in using other components in the UI Semantic framework.
 
 #### Dimmer & Linear Gradient Overlays 
 
@@ -60,7 +60,7 @@ Original Image | Edited Version
       background-attachment: scroll;
     }
 
-#### Embeded Google Map
+#### Embedded Google Map
 
 <img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/GoogleMap.png?raw=true">
 
@@ -104,4 +104,4 @@ I enjoyed tinkering with this ui module the most, as it reminds me of polaroid p
     
 ### Finish Not Perfect
 
-If I have to take away just one thing I learned throughout this experience, is that to finish not perfect. Although I’ve learned so much useful things whilst being sidetracked, in hindsight it would’ve been better to finish the project, turn it in, get the credit and then continue obsessing at my behest. Afterall the objective of learning through imitation it not to get the exact replica but to learn to imitate in your own unique and creative way. Even if it means some parts look different, the main focus is to take all the parts of the website that you love and make it your own.
+If I have to take away just one thing I learned throughout this experience, is that to finish not perfect. Although I’ve learned so much useful things whilst being sidetracked, in hindsight it would’ve been better to finish the project, turn it in, get the credit and then continue obsessing at my behest. After all the objective of learning through imitation it not to get the exact replica but to learn to imitate in your own unique and creative way. Even if it means some parts look different, the main focus is to take all the parts of the website that you love and make it your own.
