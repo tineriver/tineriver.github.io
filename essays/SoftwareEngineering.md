@@ -39,3 +39,5 @@ Development environments are software development tools that helps designers wit
 * [Angular Bootstrap](https://valor-software.com/ngx-bootstrap/#/)
 * [Baseweb](https://baseweb.design/)
 
+ My road to becoming proficient in the ways of software engineering is still a long one, but it’s comforting to know I have a plethora of resources online to learn from. With my summer break arriving very soon, I will take the opportunity in meandering and exploring these software engineering concepts in my own time.
+
