@@ -33,7 +33,7 @@ In this project I was able to showcase my passion in web designing using UI Fram
 ## My Contributions
 
 ### Home Page
-<img src="https://grub-n-go.github.io/image/landingpage.PNG" width="600">
+<img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/gng-landingpage.png?raw=true" width="600">
 Designing the overall theme of the application was very enjoyable. I used an online color scheme generator, [coolors](https://coolors.co/) to choose colors complimentary of each other.
 
 ### Add User
