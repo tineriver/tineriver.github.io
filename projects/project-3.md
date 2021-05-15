@@ -36,5 +36,19 @@ In this project I was able to showcase my passion in web designing using UI Fram
 <img src="https://grub-n-go.github.io/image/landingpage.PNG" width="600">
 Designing the overall theme of the application was very enjoyable. I used an online color scheme generator, [coolors](https://coolors.co/) to choose colors complimentary of each other.
 
+### Add User
+<img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/gng-addUser.png?raw=true" width="600">
+Upon user sign up, the user is redirected to the add user page to input user data. Using Semantic UI React’s multiple selection dropdown component, users are able to list their food preferences.
 
+### User Profile
+<img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/gng-userProfile.png?raw=true" width="600">
+A page that displays user data and option to edit user data via button component also provided by Semantic UI React. The edit user page is also made by me and is a complete copy of the add user page.
+
+
+### Admin
+<img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/gng-admin.png?raw=true" width="600">
+<img src="https://github.com/tineriver/tineriver.github.io/blob/master/images/gng-admin2.png?raw=true" width="600">
+The admin page is first executed by first applying roles to different types of users and controlling which user is allowed to see certain link on the navbar menu. I was in charges of applying the admin and vendor roles. The admin page allows the administrator to see all users and vendors subscribed to the system.
+
+Overall, my first team project was an unforgettable and valuable learning experience.
 
