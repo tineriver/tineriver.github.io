@@ -26,6 +26,15 @@ Students and faculty members at University of Hawaii at Manoa have all but the s
 
 ## Development
 
+Having known that many applications and computer software have come to existence by groups with exceptionally talented individuals, I was very excited to work with my teammates. As budding software developers, we got to learn each other’s strengths and weaknesses, creating good teamwork synergy to achieve making a web application from start to finish. Compared to my colleagues, it took a while for me to understand the overall structure of the Bowfolios framework and how to modify the code to meet our goal. Having such a strong team by my side helped me understand the complexity and intricacies of building web applications.
+
+In this project I was able to showcase my passion in web designing using UI Frameworks and Semantic React. I learned how to construct pages, forms, display and read data from a database, edit CSS style to meet our aesthetics, test the overall efficiency of the system and how deploy the app on the web.
+
+## My Contributions
+
+### Home Page
 <img src="https://grub-n-go.github.io/image/landingpage.PNG" width="600">
+Designing the overall theme of the application was very enjoyable. I used an online color scheme generator, [coolors](https://coolors.co/) to choose colors complimentary of each other.
+
 
 
