@@ -21,7 +21,7 @@ summary: A web application developed for University of Hawaii at Manoa. Enables 
 [Grub-n-Go](https://grubngo.xyz/) is a web application to combat the problems of UH community members decision making in deciding which food venue to eat. The goal is to provide restaurants, food trucks and cafeteria near the University of Hawaii at Manoa campus. Software development tools implemented to produce this app includes:
 
 * Meteor: Open-source platform used for server and client code
-* React: Open-source JavaScript library used to build user intefaces and UI components
+* React: Open-source JavaScript library used to build user interfaces and UI components
 * Semantic UI React:  Modern front-end development framework to implement themes and UI components
 * Underscore.js: JavaScript library providing useful functions for common programming tasks.
 

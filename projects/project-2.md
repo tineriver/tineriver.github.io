@@ -10,7 +10,7 @@ labels:
   - JGrasp
   - C++
 
-summary: A check book appplication developed using C/C++. Creating methods, functions, database and usin uer input to provide a working check book application.
+summary: A check book application developed using C/C++. Creating methods, functions, database and using user input to provide a working check book application.
 ---
 
 The Check Book project was executed using C/C++, the second programming language I’ve come to familiarize with. The application serves as a database, storing user’s check data and transactions, all using user input. The user is able to select options within the menu, add a check, search the database to find a check using the check number, print the whole database or checkbook and quit the applications.
