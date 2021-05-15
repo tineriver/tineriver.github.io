@@ -108,11 +108,9 @@
       ]
     }
   ],
-  "awards": [
-    "title": "TBA",
-    "date": "",
-    "awarder": "",
-    "summary": ""
+  "awards": [{
+    "title": "TBA"
+    }
   ],
   "references": [
     {
