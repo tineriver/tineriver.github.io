@@ -42,6 +42,11 @@
       "name": "Finance",
       "keywords": [
       ]
+    },
+    {
+      "name": "Blockchain",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -49,9 +54,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "HTML",
+        "CSS",
         "C",
         "Java",
-        "Javascript"
+        "Javascript",
+        "TestCafe"
       ]
     },
     {
@@ -62,7 +70,8 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "TI LaunchPad",
+        "IntelliJ IDEA"
       ]
     }
   ],
@@ -73,8 +82,15 @@
       "studyType": "B.S.",
       "startDate": "2018-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.70",
       "courses": [
+        "ICS 111",
+        "ICS 141",
+        "ICS 211",
+        "ICS 212",
+        "ICS 241",
+        "ICS 311 (Current)",
+        "ICS 314 (Current)"
       ]
     }
   ],
@@ -87,12 +103,15 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
+        "Manage accounts payable transactions",
+        "Create checks and manage credit card payments to vendors."
       ]
     }
   ],
   "volunteer": [
   ],
   "awards": [
+    "TBA"
   ],
   "references": [
     {
