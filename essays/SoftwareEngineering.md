@@ -29,3 +29,12 @@ They may be above my current skill sets, but I can already pinpoint some aspects
 After being familiarized with IntelliJ IDEA and finding the environment’s similarities with another IDE (integrated development environment) I have used before. This gave me the confidence to comfortably explore other IDE’s. Certain IDE’s are used in projects, large software’s or companies and the experience I received helps me in understanding software systems a lot faster. It has also made it possible for me to get the grasp of some design patterns used in the Bowfolios project. For a methodical person like me, organization is everything, therefore I can’t see myself working on another big project without the use of an IDE.
 
 ## User Interface Frameworks
+
+ Functional design is what I live for, whether it’s aesthetically comfortable chair or an intuitively designed application. I aspire to someday make an application so intuitive, no one would ever need a tutorial to use it. Which is likely to be impossible, as good software design often facilitate new users with some tutorial in the beginning. Basically, I hope to implement psychology and design to create a smooth user experience within my applications. I often find that the best part of working on a project is beautifying the application using some UI Framework. I’ve only been introduced to one so far, Semantic UI React, but with the ease of implementing UI components from an easy-to-read library makes me want to see what else is offered elsewhere. 
+
+**JavaScript UI Frameworks Pending to be Explored:**
+
+* [Angular Material](https://material.angular.io/) 
+* [Angular Bootstrap](https://valor-software.com/ngx-bootstrap/#/)
+* [Baseweb](https://baseweb.design/)
+
